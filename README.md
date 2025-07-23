@@ -7,6 +7,7 @@
 ---
 
 💼 Sobre mim
+
 Sou formada em Redes de Computadores e atuo há quase 5 anos na área de suporte técnico. Essa experiência me deu uma base sólida em infraestrutura e um olhar atento para o atendimento ao cliente. Atualmente, estou em transição para o desenvolvimento Back-End, com foco em Python. Tenho aprendido por meio de projetos práticos e exercícios de lógica, sempre buscando transformar conhecimento técnico em soluções funcionais e eficientes.
 
 ## 🛠️ Tecnologias e conhecimentos
