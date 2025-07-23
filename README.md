@@ -21,7 +21,7 @@ Sou formada em Redes de Computadores e atuo há quase 5 anos na área de suporte
 
 | Projeto | Descrição |
 |--------|------------|
-| [meus-exercícios-lógica-python](https://github.com/Monaliza-Vasconcelos/meus-exercicios-logica-python) | Exercícios de lógica desenvolvidos durante meus estudos de Python |
+| [meus-exercícios-lógica-python](https://github.com/Monaliza-Vasconcelos/exercicios-logica-python) | Exercícios de lógica desenvolvidos durante meus estudos de Python |
 | (Em breve mais...) | |
 
 ## 🚀 Objetivos atuais
