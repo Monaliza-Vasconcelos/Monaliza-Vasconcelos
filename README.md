@@ -1,8 +1,17 @@
-# 👋 Olá, eu sou a Monaliza!
+## 👋 Olá, eu sou a Monaliza!
 
 🎯 Em transição para o Desenvolvimento Back-End  
 💻 Estudando Python com foco em lógica de programação e APIs  
 🌍 Local: Caucaia - CE | 📬 [LinkedIn](https://www.linkedin.com/in/monaliza-vasconcelos-08a004197)
+
+---
+
+## 📊 Estatísticas do GitHub
+
+![Monaliza's GitHub stats](https://github-readme-stats.vercel.app/api?username=Monaliza-Vasconcelos&show_icons=true&theme=tokyonight&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Monaliza-Vasconcelos&layout=compact&theme=tokyonight)
+
 
 ---
 
