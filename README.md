@@ -1,44 +1,42 @@
-## 👋 Olá, eu sou a Monaliza!
+<h1 align="center">Olá, eu sou a Monaliza! 👋</h1>
 
-🎯 Em transição para o Desenvolvimento Back-End  
-💻 Estudando Python com foco em lógica de programação e APIs  
-🌍 Local: Caucaia - CE | 📬 [LinkedIn](https://www.linkedin.com/in/monaliza-vasconcelos-08a004197)
-
----
-
-## 📊 Estatísticas do GitHub
-
-![Monaliza's GitHub stats](https://github-readme-stats.vercel.app/api?username=Monaliza-Vasconcelos&show_icons=true&theme=tokyonight&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Monaliza-Vasconcelos&layout=compact&theme=tokyonight)
-
+<p align="center">
+  🌱 Em transição para o Desenvolvimento Back-End <br>
+  🐍 Estudando Python com foco em lógica de programação e APIs <br>
+  📍 Caucaia - CE • <a href="https://www.linkedin.com/in/monaliza-vasconcelos-08a004197" target="_blank">LinkedIn</a>
+</p>
 
 ---
 
-## 💼 Sobre mim
+### 💻 Tecnologias que estou aprendendo
+<div style="display: flex; gap: 8px;">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
+</div>
 
-Sou formada em Redes de Computadores e atuo há quase 5 anos na área de suporte técnico. Essa experiência me deu uma base sólida em infraestrutura e um olhar atento para o atendimento ao cliente. Atualmente, estou em transição para o desenvolvimento Back-End, com foco em Python. Tenho aprendido por meio de projetos práticos e exercícios de lógica, sempre buscando transformar conhecimento técnico em soluções funcionais e eficientes.
+---
 
-## 🛠️ Tecnologias e conhecimentos
+### 📌 Projetos em Destaque
+- 🔖 [Lista de Louvores com Python](https://github.com/Monaliza-Vasconcelos/lista_louvores)
+- 🛠️ [Repositório do Curso de Git](https://github.com/Monaliza-Vasconcelos/curso_git_1)
 
-- Python
-- Git e GitHub
-- Lógica de programação
-- Estruturas de dados (listas, dicionários)
+---
 
-## 📌 Repositórios em destaque
+### 📊 Estatísticas do GitHub
 
-| Projeto | Descrição |
-|--------|------------|
-| [meus-exercícios-lógica-python](https://github.com/Monaliza-Vasconcelos/exercicios-logica-python) | Exercícios de lógica desenvolvidos durante meus estudos de Python |
-| (Em breve mais...) | |
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Monaliza-Vasconcelos&show_icons=true&theme=dracula&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Monaliza-Vasconcelos&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
-## 🚀 Objetivos atuais
+---
 
-- Finalizar a base de Python (dicionários, funções, módulos)
-- Criar pequenos projetos com terminal (calculadora, agenda, lista de tarefas)
-- Aprender sobre banco de dados com PostgreSQL
-- Estudar fundamentos de APIs REST
+### 📈 Atividades Recentes
+[![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Monaliza-Vasconcelos&theme=dracula)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
-📫 **Vamos nos conectar!**  
-[LinkedIn](https://www.linkedin.com/in/monaliza-vasconcelos-08a004197)
+---
+
+### 📬 Como me encontrar
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/monaliza-vasconcelos-08a004197)
