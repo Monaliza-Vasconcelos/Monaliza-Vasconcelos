@@ -31,10 +31,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Monaliza-Vasconcelos&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
----
-
-### 📈 Atividades Recentes
-[![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Monaliza-Vasconcelos&theme=dracula)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 ---
 
