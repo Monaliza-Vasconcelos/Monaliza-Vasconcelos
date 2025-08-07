@@ -19,7 +19,7 @@
 ---
 
 ### 📌 Projetos em Destaque
-- 🔖 [Lista de Louvores com Python](https://github.com/Monaliza-Vasconcelos/lista_louvores)
+- 🔖 [Lista de exercícios com Python](https://github.com/Monaliza-Vasconcelos/exercicios-logica-python)
 - 🛠️ [Repositório do Curso de Git](https://github.com/Monaliza-Vasconcelos/curso_git_1)
 
 ---
