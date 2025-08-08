@@ -1,7 +1,7 @@
 <h1 align="left">Olá! Eu sou a Monaliza Vasconcelos 👩‍💻</h1>
 
 <p align="left">
-Atualmente em transição de carreira para a área de tecnologia. Estou estudando Back-End com foco em Python, Git e Programação Orientada a Objetos.
+Atualmente em transição de carreira. Estou estudando Back-End com foco em Python, Git e Programação Orientada a Objetos.
 Sou apaixonada por aprender e estou documentando minha jornada aqui no GitHub. 🚀
 </p>
 
