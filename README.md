@@ -1,38 +1,35 @@
-<h1 align="center">Olá, eu sou a Monaliza! 👋</h1>
+# Monaliza Vasconcelos
 
-<p align="center">
-  🌱 Em transição para o Desenvolvimento Back-End <br>
-  🐍 Estudando Python com foco em lógica de programação e APIs <br>
-  📍 Caucaia - CE • <a href="https://www.linkedin.com/in/monaliza-vasconcelos-08a004197" target="_blank">LinkedIn</a>
-</p>
+Estudante de Análise e Desenvolvimento de Sistemas | Foco em Back-End com Python
 
 ---
 
-### 💻 Tecnologias que estou aprendendo
-<div style="display: flex; gap: 8px;">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
-</div>
+### 👩‍💻 Tech:
+
+#### 🔙 Back-End:
+![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+#### 💡 Lógica e Programação:
+![Lógica de Programação](https://img.shields.io/badge/LÓGICA%20DE%20PROGRAMAÇÃO-F57C00?style=for-the-badge)
+![POO](https://img.shields.io/badge/PROGRAMAÇÃO%20ORIENTADA%20A%20OBJETOS-007ACC?style=for-the-badge)
+
+#### 🛠️ Ferramentas:
+![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VISUAL%20STUDIO%20CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
-### 📌 Projetos em Destaque
-- 🔖 [Lista de exercícios com Python](https://github.com/Monaliza-Vasconcelos/exercicios-logica-python)
-- 🛠️ [Repositório do Curso de Git](https://github.com/Monaliza-Vasconcelos/curso_git_1)
+### 📚 Atualmente estudando:
+
+- Curso de **Python**
+- Curso de **POO (Programação Orientada a Objetos)**
+- Curso de **Git & GitHub**
+- Início da graduação em **Análise e Desenvolvimento de Sistemas** (18/08)
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 📫 Contato:
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Monaliza-Vasconcelos&show_icons=true&theme=dracula&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Monaliza-Vasconcelos&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
-
----
-
-### 📬 Como me encontrar
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/monaliza-vasconcelos-08a004197)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-linkedin)  
+[![Email](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:monalizavasconcelos889@gmail.com)
