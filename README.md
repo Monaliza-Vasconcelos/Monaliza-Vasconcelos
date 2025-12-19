@@ -11,7 +11,8 @@ Sou apaixonada por aprender e documentar minha evolução aqui no GitHub. 🚀
 ## 🌐 Meu Portfólio Online
 
 👉 Acesse meu site:  
-🔗 https://monaliza-vasconcelos.github.io/monaliza-vasconcelos-portfolio/
+🔗 <a href="https://monaliza-vasconcelos.github.io/monaliza-vasconcelos-portfolio/" target="_blank">Acesse meu portifólio</a>
+<p>Em construção</p>
 
 ---
 
