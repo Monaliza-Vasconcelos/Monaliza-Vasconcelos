@@ -27,8 +27,8 @@ Gosto de aprender na prática e documentar minha evolução aqui no GitHub, comp
 ## 📊 GitHub Stats & Commit Streak
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Monaliza-Vasconcelos&show_icons=true&theme=radical"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Monaliza-Vasconcelos&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Monaliza-Vasconcelos&show_icons=true&theme=dark"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Monaliza-Vasconcelos&theme=dark"/>
 </p>
 
 ---
