@@ -2,20 +2,22 @@
 
 <p align="left">
 Sou uma profissional em <strong>transição de carreira para a área de Tecnologia</strong>, com foco em 
-<strong>Desenvolvimento Back-End em Python</strong>.  
-Atualmente estudo e pratico <strong>Python, HTML, CSS, JavaScript</strong> e <strong>Git/GitHub</strong>, 
-buscando construir soluções bem estruturadas e evoluir continuamente como desenvolvedora.
+<strong>Desenvolvimento Back-End com Python</strong>.  
+Atualmente estou aprofundando meus conhecimentos em <strong>Python</strong> e iniciando meus estudos em 
+<strong>Django</strong>, além de fortalecer minha base em <strong>HTML, CSS, JavaScript</strong> e <strong>Git/GitHub</strong>.
 <br><br>
-Gosto de aprender na prática e documentar minha evolução aqui no GitHub, compartilhando projetos, exercícios e estudos. 🚀
+Tenho como objetivo construir aplicações bem estruturadas, aplicando boas práticas de desenvolvimento e evoluindo constantemente por meio de projetos práticos.
+<br><br>
+Aqui no GitHub, compartilho minha jornada de aprendizado, documentando projetos, desafios e minha evolução como desenvolvedora. 🚀
 </p>
 
 ---
 
 ## 🌐 Meu Portfólio Online
 
-👉 Acesse meu site:  
-🔗 <a href="https://monaliza-vasconcelos.github.io/monaliza-vasconcelos-portfolio/" target="_blank">Portfólio</a>  
-<p><em>Em construção</em></p>
+👉 Em breve disponível  
+🔗 <a href="https://monaliza-vasconcelos.github.io/monaliza-vasconcelos-portfolio/" target="_blank">Acompanhar desenvolvimento</a>  
+<p><em>Estou atualmente desenvolvendo meu portfólio com foco em apresentar meus projetos e habilidades na prática.</em></p>
 
 ---
 
