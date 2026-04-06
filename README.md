@@ -35,6 +35,7 @@ Aqui no GitHub, compartilho minha jornada de aprendizado, documentando projetos,
 
 ### ⚙️ Back-End
 ![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/DJANGO-092E20?style=for-the-badge&logo=django&logoColor=white)
 
 ### 🧱 Fundamentos e Versionamento
 ![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
