@@ -16,7 +16,7 @@ Aqui no GitHub, compartilho minha jornada de aprendizado, documentando projetos,
 ## 🌐 Meu Portfólio Online
 
 👉 Em breve disponível  
-🔗 <a href="[https://monaliza-vasconcelos.github.io/monaliza-vasconcelos-portfolio/](https://monaliza-vasconcelos-portfolio-dw1w.vercel.app/)" target="_blank">Acompanhar desenvolvimento</a>  
+🔗 <a href="https://monaliza-vasconcelos-portfolio-dw1w.vercel.app/" target="_blank">Acompanhar desenvolvimento</a>  
 <p><em>Estou atualmente desenvolvendo meu portfólio com foco em apresentar meus projetos e habilidades na prática.</em></p>
 
 ---
